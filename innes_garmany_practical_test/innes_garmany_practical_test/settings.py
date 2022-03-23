@@ -26,7 +26,7 @@ SECRET_KEY = 'tw=7qak2jh^q)1xngq(tyo%%d(lmsnurn%+=ktb*$piwxwz*o5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['ExtinctZebroid.pythonanywhere.com']
 
 
 # Application definition
